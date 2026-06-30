@@ -1,0 +1,6 @@
+{
+  "name": "Dewey Classification & MARC21 Cataloging Assistant",
+  "description": "Generate Dewey Decimal Classification (DDC) numbers and complete MARC21 bibliographic records from a book title or ISBN using AACR2 rules, SLSH, LCSH, and MeSH subject headings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
